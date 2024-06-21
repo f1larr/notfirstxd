@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box {
+    width: 1160px;
+    height: 980px;
+    border: 2px solid black;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.header {
+    width: 1060px;
+    height: 300px;
+    border: 2px solid black;
+    margin: 0 auto;
+}
+
+.nav {
+    width: 1060px;
+    height: 100px;
+    border: 2px solid black;
+    margin: 10px auto;
+}
+
+.main {
+    width: 620px;
+    height: 400px;
+    margin: 35px;
+    border: 2px solid black;
+    float: left;
+}
+
+.aside {
+    width: 360px;
+    height: 400px;
+    margin: 35px;
+    border: 2px solid black;
+    float: left;
+}
+
+.footer {
+    width: 1060px;
+    height: 50px;
+    border: 2px solid black;
+    margin: 10px auto;
+    clear: both;
+}
